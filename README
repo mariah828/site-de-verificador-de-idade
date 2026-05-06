@@ -1,0 +1,30 @@
+# 🎂 Verificador de Idade
+
+Projeto simples desenvolvido com HTML, CSS e JavaScript para praticar manipulação do DOM e lógica de programação.
+
+A aplicação calcula a idade do usuário com base no ano de nascimento informado e exibe um resultado dinâmico na tela.
+
+---
+
+## 🚀 Funcionalidades
+
+- Cálculo automático da idade  
+- Identificação de faixa etária  
+- Exibição dinâmica de mensagem  
+- Alteração de imagem de acordo com a idade e gênero  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/mariah828/Site-de-verificador-de-idade.git
