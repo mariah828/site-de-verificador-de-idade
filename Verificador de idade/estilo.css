@@ -1,0 +1,49 @@
+body {
+    background: rgb(82, 163, 100); 
+    font: normal 15pt arial;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.479);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    width: 60px;
+    margin-left: 20px;
+}
+
+input#ano {
+    margin-bottom: 10px;
+}
+
+input#fem {
+    margin-bottom: 30px;
+}
+
+
